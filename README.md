@@ -1,7 +1,7 @@
 <div align="center">
 
 # Dillon/Oxva
-**Founder & Builder** — [EasyEarns](https://easyearns.com)
+**Co-Founder & Builder** — [EasyEarns](https://easyearns.com)
 
 <a href="https://easyearns.com">
   <img src="https://img.shields.io/badge/Live%20Site-easyearns.com-14b8a6?style=for-the-badge" alt="Live Site" />
