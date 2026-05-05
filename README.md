@@ -10,6 +10,15 @@
   <img src="https://img.shields.io/badge/Org-EasyEarns-181717?style=for-the-badge&logo=github" alt="EasyEarns Org" />
 </a>
 
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" alt="Next.js" />
+<img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+
 </div>
 
 ---
@@ -58,6 +67,23 @@ Users can browse verified offers, compare rewards, and surface the deals that ac
 | **Testing** | Vitest + custom integration tooling |
 
 </div>
+
+---
+
+## Featured Work
+
+**EasyEarns** — Co-founder & Full-stack Developer  
+- Referral marketplace platform (Next.js, Supabase, React, TypeScript)
+- Live at [easyearns.com](https://easyearns.com)
+- Private repo under [EasyEarns](https://github.com/EasyEarns) org
+
+---
+
+## Currently
+
+- Building moderation queue v2 with bulk actions and undo support
+- Dockerising production deployments
+- Implementing real-time presence tracking
 
 ---
 
